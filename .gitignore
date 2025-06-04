@@ -1,0 +1,6 @@
+/__pycache__
+.venv
+*.zip
+*.pgn
+/tensorboard_logs
+/csv_data
